@@ -5,10 +5,10 @@ This is a game supplement for the absolutely awesome board game "T.I.M.E. Storie
 It's intended to help who ever is in charge of taking notes during a "T.I.M.E. Stories" session. The goal is to reduce the amount of text that is required to be noted down, thus increase the fun for all players in the game.
 
 ## Files/Content
-- `spielhilfen/time-stories-protocol_german.indd` The InDesign file for the german version
-- `spielhilfen/time-stories-protocol_german.pdf` The print ready PDF for the german version
-- `spielhilfen/time-stories-protocol_english.indd` The InDesign file for the english version
-- `spielhilfen/time-stories-protocol_english.pdf` The print ready PDF for the english version
+- `time-stories-protocol_german.indd` The InDesign file for the german version
+- `time-stories-protocol_german.pdf` The print ready PDF for the german version
+- `time-stories-protocol_english.indd` The InDesign file for the english version
+- `time-stories-protocol_english.pdf` The print ready PDF for the english version
 
 
 ### How is it intended to be used?
